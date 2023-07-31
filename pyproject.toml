@@ -8,7 +8,6 @@ packages = [{include = "python_test"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-pendulum = "^2.1.2"
 flask = "^2.3.2"
 
 
